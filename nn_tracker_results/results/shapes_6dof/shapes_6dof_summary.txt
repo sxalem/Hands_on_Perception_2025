@@ -1,0 +1,5 @@
+Dataset: shapes_6dof
+Total frames: 1356
+Total tracks: 16064
+Average track lifespan: 1.93 frames
+Average active tracks/frame: 38.35

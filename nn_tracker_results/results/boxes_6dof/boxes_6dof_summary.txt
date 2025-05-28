@@ -1,0 +1,5 @@
+Dataset: boxes_6dof
+Total frames: 1298
+Total tracks: 7532
+Average track lifespan: 1.29 frames
+Average active tracks/frame: 14.09

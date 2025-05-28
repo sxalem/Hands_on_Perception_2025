@@ -1,0 +1,5 @@
+Dataset: shapes_translation
+Total frames: 1356
+Total tracks: 19544
+Average track lifespan: 2.09 frames
+Average active tracks/frame: 50.27
